@@ -14,6 +14,9 @@ A tree plugin for vue2
 
 [http://zdy1988.github.io/vue-jstree](http://zdy1988.github.io/vue-jstree)
 
+[demo source](https://github.com/zdy1988/vue-jstree/blob/master/App.vue)
+
+
 ##  NPM
 
 ```html
